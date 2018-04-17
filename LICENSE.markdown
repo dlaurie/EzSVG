@@ -8,9 +8,9 @@
 
 _This License is modified from [that of Lua](http://www.lua.org/license.html). If a copy of Lua is distributed with this Software, the terms of that License applies too._
 
-> Copyright &copy; 2012&ndash; Patrick Borgeat.
+> Copyright &copy; 2012 Patrick Borgeat.
 >
-> Copyright &copy; 2018&ndash; Dirk Laurie. 
+> Copyright &copy; 2018 Dirk Laurie. 
 > 
 > EzSVG is free software distributed under the terms of the [MIT license](http://www.opensource.org/licenses/mit-license.html) reproduced below; it may be used for any purpose, including commercial purposes, at absolutely no cost without having to ask the authors mentioned in the copyright notice.
 >
