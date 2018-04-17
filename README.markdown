@@ -1,3 +1,5 @@
+The write-up below is unchanged, as it was when I forked the repository. The file `LICENSE.markdown` did not exist; part of its contents has been excerpted from [the original author's website](http://www.cappel-nord.de). All other files have been moved to the new `src` and `examples` directories. For a description of how the fork differs from the original, see `doc/README.md`. If the file does not exist, it is because I have not pushed any changes or additions yet. -- Dirk Laurie on 2018-04-17
+
 EzSVG
 =====
 
